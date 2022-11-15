@@ -1,0 +1,14 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open Index.html",
+            "file": "c:\\Users\\Human\\3D Objects\\IBM-Project-44380-1664355664\\Project Development Phase\\Sprint 1\\News Tracker Application\\Index.html"
+        }
+    ]
+}
